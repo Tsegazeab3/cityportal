@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+cd ./django_tailwind_setup/final_project/static/
+npm run city_portal

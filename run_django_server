@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+./django_tailwind_setup/final_project/manage.py runserver
+
+
